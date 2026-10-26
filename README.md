@@ -66,4 +66,4 @@ MIT. See [LICENSE](LICENSE).
 
 ## Support
 
-[vibepaper.io/contact](https://vibepaper.io/contact) · [Privacy](https://vibepaper.io/privacy) · [Terms](https://vibepaper.io/terms)
+[pixelarrayai@gmail.com](mailto:pixelarrayai@gmail.com) · [vibepaper.io/contact](https://vibepaper.io/contact) · [Privacy](https://vibepaper.io/privacy) · [Terms](https://vibepaper.io/terms)
