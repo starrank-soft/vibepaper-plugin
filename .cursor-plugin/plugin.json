@@ -1,0 +1,50 @@
+{
+  "name": "vibepaper",
+  "displayName": "VibePaper",
+  "version": "1.0.0",
+  "description": "Cinematic AI image, video, audio and text generation from your agent. Text to video and image to video with Seedance 2.5, Kling 3.0, Veo 3.1, Wan 3.0, Vidu and MiniMax Hailuo. Text to image and image editing with GPT-Image-2.5, Banana 2, Banana Pro, Seedream 5.0 Pro and Midjourney V8.2. Voice and music with ElevenLabs and MiniMax. Compare models on one prompt, estimate credits first, and send results to an editable VibePaper canvas. Sign in with OAuth, no API key.",
+  "author": {
+    "name": "VibePaper"
+  },
+  "homepage": "https://vibepaper.io",
+  "repository": "https://github.com/starrank-soft/vibepaper-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "vibepaper",
+    "ai-video",
+    "ai-video-generator",
+    "text-to-video",
+    "image-to-video",
+    "ai-image",
+    "ai-image-generator",
+    "text-to-image",
+    "image-editing",
+    "upscale",
+    "seedance",
+    "kling",
+    "veo",
+    "wan",
+    "gpt-image",
+    "nano-banana",
+    "seedream",
+    "midjourney",
+    "text-to-speech",
+    "music",
+    "cinematic",
+    "storyboard",
+    "canvas",
+    "generative-media",
+    "grok-bot",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "vibepaper",
+    "ai-video",
+    "ai-image",
+    "generative-media",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}
